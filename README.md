@@ -189,6 +189,9 @@ Latest Firefox
 
 Latest Safari
 
+📸 Screenshots
+<img width="1917" height="987" alt="DASHBOARD" src="https://github.com/user-attachments/assets/3ab8fc1e-5425-4a60-b635-a2a8aadf977b" />
+
 🎯 Assignment Requirements Coverage
 Requirement	Status
 Extract CityCode from cities.json	✅ Completed
@@ -204,5 +207,5 @@ Docker Deployment	Optional
 
 Abdul Azoor
 Associate Software Engineer Candidate
-<img width="1917" height="987" alt="DASHBOARD" src="https://github.com/user-attachments/assets/3ab8fc1e-5425-4a60-b635-a2a8aadf977b" />
+
 
